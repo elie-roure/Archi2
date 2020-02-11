@@ -64,5 +64,5 @@ int main(int argc, char const *argv[])
 	printf("min = %d, max = %d\n", a, b);
 	
 }
-
+zez
 
